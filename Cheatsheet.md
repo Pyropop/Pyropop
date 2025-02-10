@@ -1,4 +1,4 @@
-[Where the rest is shamelessly paraphrased from](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet "Adam Pritchard")
+[Where this is shamelessly paraphrased from](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet "Adam Pritchard")
 ## Lists
 1. First ordered list item
 2. Another item
