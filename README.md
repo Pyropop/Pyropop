@@ -19,6 +19,10 @@ we're somewhat hermeneutically "sealed" from grasping the higher impulses and ho
 | Ruby, Rust, Go, Java, Zig | I've heard them referenced | Watching [The Primagen](https://www.youtube.com/@ThePrimeTimeagen) I think I've heard them referenced, but I don't really learn any more from *edutainment* as I do from *pop-science*, though it's interesting to learn more about **the industry** as a whole though. |
 
 
+## Addendumage
+> I also keep a **personal _vault of unnecessary information_** which contains stuff like [this](https://bit.ly/40WytFl), from silly D&D games or w/e which I'm never certain what to make of since it certainly isn't the first time, (it's only the first time I figured I'd make a bit.ly link), and I believe someone else deserves to have these *distractions* from doing proper work as well. 🤪
+
+Obviously take it with a pinch of salt, if reading *grand narratives* worries or sophistry being BS is foreign to you, maaaybe skip.🤔
 <!--
 **Pyropop/Pyropop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
